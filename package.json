@@ -76,7 +76,7 @@
     "electron-debug": "1.1.0",
     "electron-proxy-agent": "1.0.2",
     "es6-shim": "0.35.2",
-    "formidable": "1.0.17",
+    "formidable": "3.2.4",
     "http-status-codes": "1.0.6",
     "jsonwebtoken": "7.2.1",
     "lock": "0.1.3",
